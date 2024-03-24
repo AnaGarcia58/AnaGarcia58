@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaGarcia58
 - 👀 I’m interested  in programming, continually learning to enhance my skills, and collaborating with colleagues on various projects.
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I'm seeking collaborations on projects that enable me to contribute my expertise and facilitate the development of original creations.
+
 - 📫 How to reach me ... https://www.linkedin.com/in/anabel-garcia-543979292/
 
 <!---
